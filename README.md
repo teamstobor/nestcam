@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was made by Team# 684, [STOBOR](www.stobor.club). This project was part of First Lego League competition for Animal Allies season (2016-17).
+This project was made by Team# 684, [STOBOR](http://www.stobor.club). This project was part of First Lego League competition for Animal Allies season (2016-17).
 
 ## Purpose
 
@@ -28,6 +28,10 @@ We adopted the above process from [Science Buddies](http://www.sciencebuddies.or
 ### Problem
 
 ### Background Research
+
+#### Field trips
+
+#### Websites
 
 ### Requirements
 
