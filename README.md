@@ -77,6 +77,11 @@ Using a Raspberry Pi 3 or Raspberry Zero W (which provides WiFi), a Raspberry Pi
 
 #### Instructions
 
+1. Download and Install PiBakery from http://www.pibakery.org/download.html
+2. In PiBakery, write a program to set up Wifi on First Boot. See example below:
+
+![First Boot Program](pibakery_firstboot.png)
+3. 
 
 
 ### Field Testing
