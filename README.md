@@ -18,7 +18,7 @@ We followed the 8 step Engineering Design Process for our project. The following
 4. Design a solution
 5. Make a prototype
 6. Test the solution
-7. If solution does not meet requirements, go back to step 5. and repeat.
+7. If the solution does not meet the requirements, go back to step 5. and repeat.
 8. Communicate results.
 
 We adopted the above process from [Science Buddies](http://www.sciencebuddies.org/engineering-design-process/engineering-design-process-steps.shtml).
@@ -31,18 +31,18 @@ About 3-6 billion trees are cut down each year in the world. 900 million of them
 
 #### Field trips
 
-1. We went to Queens Aviary. There we saw a variety of birds in their habitats.
-2. We also went to Cornell University. We made a presentation to a team of scientists and collected their feedback on our project. We went on several trails and saw birds of various species. 
+1. We went to Queens Aviary in Queens, NY. There we saw a variety of birds in their habitats.
+2. We also went to Cornell Lab of Ornithology in Ithaca, NY. We made a presentation to a team of scientists and collected their feedback on our project. We went on several trails and saw birds of various species. 
 3. Rochelle Tolkoff is bird expert who has been studying birds for over 20 years. She has two bird houses in her backyard.
 4. Aashritha has 3 active bird nests in her backyard. She has been studying and collected data on various types of birds and their migration.
 
 #### Websites
 
 [Cornell Nestwatch](http://www.nestwatch.org) - 
-We learned that different bird species have different nesting needs. Bird houses need to be of different shapes and sizes depending on the bird species. We learned how to collect data about bird's nesting habits. All of our team passed NestWatch nest monitor exam and got certified.
+We learned that different bird species have different nesting needs. Bird houses need to be of different shapes and sizes depending on the bird species. We learned how to collect data about bird's nesting habits. All of our team passed the NestWatch nest monitor exam and got certified.
 
 [Raspberry Pi](http://www.raspberrypi.org) - 
-Raspberry is a small computer that has a camera connector, WiFi and Bluetooth. We learned how to connect a camera to monitor birds. We also bought one Raspberry Pi Zero W each for our team to learn how to program it.
+Raspberry Pi is a small computer that has a camera connector, WiFi and Bluetooth. We learned how it works and how to use it for monitoring birds. We also bought one Raspberry Pi Zero W each for our team to learn how to program it.
 
 [Sense HAT](www.raspberrypi.org/senseHAT) - 
 SenseHAT is a small circuit board that has 64 LEDs (Light Emitting Diode), barometric pressure, temperature and humidity sensors. It sits on top of a Raspberry Pi.
@@ -50,11 +50,11 @@ SenseHAT is a small circuit board that has 64 LEDs (Light Emitting Diode), barom
 [Node-Red](http://www.nodered.org) - 
 This is a tool for programming the SenseHAT to collect data and draw graphs using its dashboard.
 
-[PiBakery](http://www.pibakery.org/) - This software uses simple programming blocks to install Linux OS and settings.
+[PiBakery](http://www.pibakery.org/) - This software uses simple programming blocks to install Linux OS and settings on Raspberry Pi.
 
-[Rpi Camera Web Interface](http://elinux.org/RPi-Cam-Web-Interface) - This is the software we used to show the output of camera on a web page. This is very easy to use but very powerful. This software contains many features to save video or pictures, use motion detection.
+[Rpi Camera Web Interface](http://elinux.org/RPi-Cam-Web-Interface) - This is the software we used to show the output of camera on a web page. This is very easy to use but very powerful. This software contains many features to save video or pictures and use motion detection.
 
-[Deforestation](http://time.com/4019277/trees-humans-deforestation/) - Billions of trees are being cut every year leading to habitat loss for birds.
+[Deforestation](http://time.com/4019277/trees-humans-deforestation/) - Billions of trees are being cut down every year leading to habitat loss for birds.
 
 ### Requirements
 
