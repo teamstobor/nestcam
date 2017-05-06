@@ -77,20 +77,31 @@ Using a Raspberry Pi 3 or Raspberry Zero W (which provides WiFi), a Raspberry Pi
 
 #### Instructions
 
-1. Download and Install PiBakery from http://www.pibakery.org/download.html
-2. In PiBakery, write a program to set up Wifi on First Boot. See example below:
+1. Connect the camera to Raspberry Pi
+
+2. Download and Install PiBakery from http://www.pibakery.org/download.html
+
+3. In PiBakery, write a program to set up Wifi on First Boot. See example below:
 
 ![First Boot Program](images/pibakery_firstboot.png)
 
 Replace **network-name** and **network-password** as per your home wifi setup. 
 
-3. Insert microSD card into SDHC sleeve and insert that into PC/Laptop SDHC slot.
+4. Insert microSD card into SDHC sleeve and insert that into PC/Laptop SDHC slot.
 
-4. Format the microSD card.
+5. Format the microSD card.
 
-5. In PiBakery, click on **Write**. 
+6. In PiBakery, click on **Write**. 
 
+7. Put the microSD card in Raspberry Pi 
 
+8. Power up Raspberry Pi
+
+9. Use [PuTTY](http://www.putty.org/) to connect to Raspberry Pi terminal
+
+9. Follow installation instructions to install Rpi Web Cam : http://elinux.org/RPi-Cam-Web-Interface#Basic_Installation
+
+10. Use a browser on your phone to connect to the ip-address of the raspberry pi. You should now see the video from the camera.
 
 ### Field Testing
 
