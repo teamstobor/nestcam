@@ -71,7 +71,7 @@ Using a Raspberry Pi 3 or Raspberry Zero W (which provides WiFi), a Raspberry Pi
 
 1. Raspberry Pi 3B or Raspberry Pi Zero W.
 2. Raspberry Pi NOIR camera module with cable.
-3. SDHC Card with 8GB or more space.
+3. microSD Card with 8GB or more space.
 4. Cardboard - preferably pizza boxes.
 5. Scissors, Utility knife, Electric Tape and Duct tape. 
 
@@ -81,7 +81,15 @@ Using a Raspberry Pi 3 or Raspberry Zero W (which provides WiFi), a Raspberry Pi
 2. In PiBakery, write a program to set up Wifi on First Boot. See example below:
 
 ![First Boot Program](images/pibakery_firstboot.png)
-3. 
+
+Replace **network-name** and **network-password** as per your home wifi setup. 
+
+3. Insert microSD card into SDHC sleeve and insert that into PC/Laptop SDHC slot.
+
+4. Format the microSD card.
+
+5. In PiBakery, click on **Write**. 
+
 
 
 ### Field Testing
