@@ -25,7 +25,7 @@ We adopted the above process from [Science Buddies](http://www.sciencebuddies.or
 
 ### Problem
 
-3-6 billion trees are cut down each year in the world. 900 million of them in the US. About 13.7 million birds die each day in the US. In northeastern US, birds such as northen cardinal and american robin are declining each year in numbers.
+About 3-6 billion trees are cut down each year in the world. 900 million of them in the US. About 13.7 million birds die each day in the US. In northeastern US, birds such as northen cardinal and american robin are declining each year in numbers.
 
 ### Background Research
 
@@ -53,6 +53,8 @@ This is a tool for programming the SenseHAT to collect data and draw graphs usin
 [PiBakery](http://www.pibakery.org/) - This software uses simple programming blocks to install Linux OS and settings.
 
 [Rpi Camera Web Interface](http://elinux.org/RPi-Cam-Web-Interface) - This is the software we used to show the output of camera on a web page. This is very easy to use but very powerful. This software contains many features to save video or pictures, use motion detection.
+
+[Deforestation](http://time.com/4019277/trees-humans-deforestation/) - Billions of trees are being cut every year leading to habitat loss for birds.
 
 ### Requirements
 
